@@ -1,0 +1,17 @@
+RawVideo=1
+RawVideo_MaxHistory=4
+Track_Heading_Line=0
+Track_PredictionLine_TWR=0
+Track_PredictionLine_APP=0
+Window_APP_Extensions=1
+Label_ATYP=1,1,1
+System_UseReportedGS=1
+Window_APP_Extensions=1
+
+[EPWA]
+Airport_Elevation=362
+Airport_Radius=6.5
+
+[EPKK]
+Airport_Elevation=791
+Airport_Radius=6.5

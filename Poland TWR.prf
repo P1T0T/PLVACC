@@ -1,0 +1,123 @@
+ASRFastKeys	1	\EPWW\ASR\EPWW_GND.asr
+ASRFastKeys	2	\EPWW\ASR\EPWA_GND.asr
+ASRFastKeys	3	\EPWW\ASR\EPKK_GND.asr
+ASRFastKeys	4	\EPWW\ASR\EPGD_GND.asr
+ASRFastKeys	5	\EPWW\ASR\EPKT_GND.asr
+ASRFastKeys	6	\EPWW\ASR\EPMO_GND.asr
+ASRFastKeys	7	\EPWW\ASR\EPPO_GND.asr
+ASRFastKeys	8	\EPWW\ASR\EPWR_GND.asr
+Plugins	Plugin0	\EPWW\Plugins\CCAMS.dll
+Plugins	Plugin1	\EPWW\Plugins\DiscordEuroscope.dll
+Plugins	Plugin2	\EPWW\Plugins\P21Euroscope.dll
+Plugins	Plugin3	\EPWW\Plugins\EuroScopeTrails.dll
+Plugins	Plugin4	\EPWW\Plugins\ESTimers.dll
+Plugins	Plugin5	\EPWW\Plugins\VCH.dll
+Plugins	Plugin6	\EPWW\Plugins\CDM\CDM.dll
+Settings	aircraft	\EPWW\ICAO\ICAO_Aircraft.txt
+Settings	airlines	\EPWW\ICAO\ICAO_Airlines.txt
+Settings	airports	\EPWW\ICAO\ICAO_Airports.txt
+Settings	airways	\EPWW\NavData\AIRWAY.txt
+Settings	sector	\EPWW-Sector.sct
+Settings	Settingsfile	\EPWW\Settings\TWR.txt
+Settings	SettingsfileARR	\EPWW\Settings\TWR.txt
+Settings	SettingsfileCONFLICT	\EPWW\Settings\TWR.txt
+Settings	SettingsfileDEP	\EPWW\Settings\TWR.txt
+Settings	SettingsfileFP	\EPWW\Settings\TWR.txt
+Settings	SettingsfilePLUGINS	\EPWW\Settings\TWR.txt
+Settings	SettingsfilePROFILE	\EPWW\Settings\TWR_Positions.txt
+Settings	SettingsfileSCREEN	\EPWW\Settings\TWR.txt
+Settings	SettingsfileSEL	\EPWW\Settings\TWR.txt
+Settings	SettingsfileSIL	\EPWW\Settings\TWR.txt
+Settings	SettingsfileSYMBOLOGY	\EPWW\Settings\P21.txt
+Settings	SettingsfileTAGS	\EPWW\Settings\P21.txt
+Settings	SettingsfileVCCS	\EPWW\Settings\G2G_comms.txt
+Settings	SettingsfilePILOTING	\EPWW\Settings\TWR.txt
+Settings	SettingsfileVOICE	\EPWW\Settings\EPWW_freq.txt
+Settings	alias	C:\Users\turtu\Desktop\PLVACC FOLDER\aliasy_ASRC.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin2Display1	Ground Radar display
+Plugins	Plugin2Display2	ModeS Function Relay (no display)
+Plugins	Plugin6Display0	Ground Radar display
+Plugins	Plugin6Display1	SMR radar display
+Plugins	Plugin6Display2	Standard ES radar screen
+ASRFastKeys	1	\EPWW\ASR\EPWA_TWR.asr
+RecentFiles	Recent1	\EPWW\ASR\EPKK_GND.asr
+RecentFiles	Recent2	\EPWW\ASR\EPWA_GND.asr
+RecentFiles	Recent3	\EPWW\ASR\EPGD_GND.asr
+RecentFiles	Recent4	\EPWW\ASR\EPWW_GND.asr
+RecentFiles	Recent5	\EPWW\ASR\EPWW_TWR.asr
+RecentFiles	Recent6	\EPWW\ASR\EPWR_GND.asr
+RecentFiles	Recent7	\EPWW\ASR\EPPO_GND.asr
+RecentFiles	Recent8	\EPWW\ASR\EPMO_GND.asr
+RecentFiles	Recent9	\EPWW\ASR\EPKT_GND.asr
+RecentFiles	Recent10	\EPWW\ASR\EPWA_GRSMR.asr
+RecentFiles	Recent11	\EPWW\ASR\EPKK_GRSMR.asr
+Plugins	Plugin2Display3	SMR radar display
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin5Display1	SMR radar display
+Plugins	Plugin5Display2	Standard ES radar screen
+Plugins	Plugin7	\EPWW\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
+ASRFastKeys	2	\EPWW\ASR\EPWA1_SMR.asr
+ASRFastKeys	3	\EPWW\ASR\EPKK_SMR.asr
+Sounds	Sound0	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\handoff_request.wav
+Sounds	Sound1	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\handoff_accept.wav
+Sounds	Sound2	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\conflict_alert.wav
+Sounds	Sound3	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\radio_message.wav
+Sounds	Sound4	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\private_message.wav
+Sounds	Sound5	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\atc_message.wav
+Sounds	Sound6	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\broadcast_message.wav
+Sounds	Sound7	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\landline_request.wav
+Sounds	Sound8	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\supervisor_message.wav
+Sounds	Sound9	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\connected.wav
+Sounds	Sound10	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\disconnected.wav
+Sounds	Sound11	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\ongoing_request.wav
+Sounds	Sound12	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\ongoing_accepted.wav
+Sounds	Sound13	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\ongoing_refused.wav
+Sounds	Sound14	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\ongoing_manual.wav
+Sounds	Sound15	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\new_atis.wav
+Sounds	Sound16	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\handoff_refused.wav
+Sounds	Sound17	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\pointout.wav
+Sounds	Sound18	C:\Users\x\Desktop\Lotnictwo\Euroscope\Sounds\startup.wav
+Sounds	OutputDevice	OMEN 32q (NVIDIA High Definitio
+TeamSpeakVccs	Ts3G2GPtt	1900544
+TeamSpeakVccs	Ts3G2APtt	1900544
+TeamSpeakVccs	Ts3NickName	1557118
+TeamSpeakVccs	PlaybackMode	Windows Audio Session
+TeamSpeakVccs	PlaybackDevice	HDMI (NVIDIA High Definition Audio)
+TeamSpeakVccs	CaptureMode	Windows Audio Session
+TeamSpeakVccs	CaptureDevice	Sennheiser (Realtek(R) Audio)
+TeamSpeakVccs	Ts3DialogLeft	589
+TeamSpeakVccs	Ts3DialogTop	225
+TeamSpeakVccs	Ts3DialogRight	1494
+TeamSpeakVccs	Ts3DialogBottom	825
+TeamSpeakVccs	TsVccsMiniControlX	1218
+TeamSpeakVccs	TsVccsMiniControlY	44
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin4Display1	SMR radar display
+Plugins	Plugin4Display2	Standard ES radar screen
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	ModeS Function Relay (no display)
+Plugins	Plugin3Display2	SMR radar display
+Plugins	Plugin3Display3	Standard ES radar screen
+Plugins	Plugin7Display0	Standard ES radar screen
+Plugins	Plugin7Display1	SMR radar display
+Plugins	Plugin7Display2	Ground Radar display
+Plugins	Plugin8	\EPWW\Plugins\VFPC_2.1.1\VFPC.dll
+Plugins	Plugin9	\EPWW\Plugins\GRPlugin\GRplugin.dll
+Plugins	Plugin10	C:\Program Files (x86)\vStrips\vStripsESP.dll
+Plugins	Plugin10Display0	Ground Radar display
+Plugins	Plugin9Display0	Ground Radar display
+Plugins	Plugin8Display0	Ground Radar display
+Plugins	Plugin8Display1	SMR radar display
+Plugins	Plugin8Display2	Standard ES radar screen
+Plugins	Plugin10Display1	SMR radar display
+Plugins	Plugin10Display2	Standard ES radar screen
+Plugins	Plugin11	\EPWW\Plugins\TopSky\TopSky.dll
+Plugins	Plugin11Display0	SMR radar display
+Plugins	Plugin11Display1	Ground Radar display
+Plugins	Plugin11Display2	Standard ES radar screen
+Plugins	Plugin12	\EPWW\Plugins\vSMR\vSMR.dll
+Plugins	Plugin12Display0	SMR radar display
+Plugins	Plugin12Display1	Ground Radar display

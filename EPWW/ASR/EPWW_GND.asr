@@ -1,0 +1,573 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\turtu\Desktop\PLVACC FOLDER\EPWW-Sec-conf-TopSky\EPWW-Sector.sct
+SECTORTITLE:EPWW-Sector.sct
+Airports:EDDB:name
+Airports:EDDB:symbol
+Airports:EPAR:name
+Airports:EPAR:symbol
+Airports:EPBA:name
+Airports:EPBA:symbol
+Airports:EPBC:name
+Airports:EPBC:symbol
+Airports:EPBK:name
+Airports:EPBK:symbol
+Airports:EPBO:name
+Airports:EPBO:symbol
+Airports:EPBY:name
+Airports:EPBY:symbol
+Airports:EPCD:name
+Airports:EPCD:symbol
+Airports:EPCE:name
+Airports:EPCE:symbol
+Airports:EPDA:name
+Airports:EPDA:symbol
+Airports:EPDE:name
+Airports:EPDE:symbol
+Airports:EPEL:name
+Airports:EPEL:symbol
+Airports:EPGD:name
+Airports:EPGD:symbol
+Airports:EPGE:name
+Airports:EPGE:symbol
+Airports:EPGI:name
+Airports:EPGI:symbol
+Airports:EPGL:name
+Airports:EPGL:symbol
+Airports:EPGY:name
+Airports:EPGY:symbol
+Airports:EPIN:name
+Airports:EPIN:symbol
+Airports:EPIR:name
+Airports:EPIR:symbol
+Airports:EPIW:name
+Airports:EPIW:symbol
+Airports:EPJA:name
+Airports:EPJA:symbol
+Airports:EPJG:name
+Airports:EPJG:symbol
+Airports:EPJS:name
+Airports:EPJS:symbol
+Airports:EPKA:name
+Airports:EPKA:symbol
+Airports:EPKC:name
+Airports:EPKC:symbol
+Airports:EPKE:name
+Airports:EPKE:symbol
+Airports:EPKG:name
+Airports:EPKG:symbol
+Airports:EPKI:name
+Airports:EPKI:symbol
+Airports:EPKK:name
+Airports:EPKK:symbol
+Airports:EPKM:name
+Airports:EPKM:symbol
+Airports:EPKN:name
+Airports:EPKN:symbol
+Airports:EPKO:name
+Airports:EPKO:symbol
+Airports:EPKP:name
+Airports:EPKP:symbol
+Airports:EPKR:name
+Airports:EPKR:symbol
+Airports:EPKS:name
+Airports:EPKS:symbol
+Airports:EPKT:name
+Airports:EPKT:symbol
+Airports:EPKW:name
+Airports:EPKW:symbol
+Airports:EPKX:name
+Airports:EPKX:symbol
+Airports:EPLB:name
+Airports:EPLB:symbol
+Airports:EPLI:name
+Airports:EPLI:symbol
+Airports:EPLK:name
+Airports:EPLK:symbol
+Airports:EPLL:name
+Airports:EPLL:symbol
+Airports:EPLR:name
+Airports:EPLR:symbol
+Airports:EPLS:name
+Airports:EPLS:symbol
+Airports:EPLU:name
+Airports:EPLU:symbol
+Airports:EPLY:name
+Airports:EPLY:symbol
+Airports:EPMB:name
+Airports:EPMB:symbol
+Airports:EPMI:name
+Airports:EPMI:symbol
+Airports:EPML:name
+Airports:EPML:symbol
+Airports:EPMM:name
+Airports:EPMM:symbol
+Airports:EPMO:name
+Airports:EPMO:symbol
+Airports:EPMR:name
+Airports:EPMR:symbol
+Airports:EPMX:name
+Airports:EPMX:symbol
+Airports:EPNC:name
+Airports:EPNC:symbol
+Airports:EPNL:name
+Airports:EPNL:symbol
+Airports:EPNM:name
+Airports:EPNM:symbol
+Airports:EPNT:name
+Airports:EPNT:symbol
+Airports:EPOD:name
+Airports:EPOD:symbol
+Airports:EPOK:name
+Airports:EPOK:symbol
+Airports:EPOM:name
+Airports:EPOM:symbol
+Airports:EPOP:name
+Airports:EPOP:symbol
+Airports:EPPB:name
+Airports:EPPB:symbol
+Airports:EPPG:name
+Airports:EPPG:symbol
+Airports:EPPI:name
+Airports:EPPI:symbol
+Airports:EPPK:name
+Airports:EPPK:symbol
+Airports:EPPL:name
+Airports:EPPL:symbol
+Airports:EPPO:name
+Airports:EPPO:symbol
+Airports:EPPR:name
+Airports:EPPR:symbol
+Airports:EPPT:name
+Airports:EPPT:symbol
+Airports:EPPW:name
+Airports:EPPW:symbol
+Airports:EPPZ:name
+Airports:EPPZ:symbol
+Airports:EPRA:name
+Airports:EPRA:symbol
+Airports:EPRD:name
+Airports:EPRD:symbol
+Airports:EPRG:name
+Airports:EPRG:symbol
+Airports:EPRJ:name
+Airports:EPRJ:symbol
+Airports:EPRP:name
+Airports:EPRP:symbol
+Airports:EPRU:name
+Airports:EPRU:symbol
+Airports:EPRZ:name
+Airports:EPRZ:symbol
+Airports:EPSC:name
+Airports:EPSC:symbol
+Airports:EPSD:name
+Airports:EPSD:symbol
+Airports:EPSI:name
+Airports:EPSI:symbol
+Airports:EPSJ:name
+Airports:EPSJ:symbol
+Airports:EPSK:name
+Airports:EPSK:symbol
+Airports:EPSL:name
+Airports:EPSL:symbol
+Airports:EPSN:name
+Airports:EPSN:symbol
+Airports:EPSO:name
+Airports:EPSO:symbol
+Airports:EPSS:name
+Airports:EPSS:symbol
+Airports:EPST:name
+Airports:EPST:symbol
+Airports:EPSU:name
+Airports:EPSU:symbol
+Airports:EPSW:name
+Airports:EPSW:symbol
+Airports:EPSY:name
+Airports:EPSY:symbol
+Airports:EPTM:name
+Airports:EPTM:symbol
+Airports:EPTO:name
+Airports:EPTO:symbol
+Airports:EPWA:name
+Airports:EPWA:symbol
+Airports:EPWK:name
+Airports:EPWK:symbol
+Airports:EPWR:name
+Airports:EPWR:symbol
+Airports:EPWS:name
+Airports:EPWS:symbol
+Airports:EPWT:name
+Airports:EPWT:symbol
+Airports:EPZA:name
+Airports:EPZA:symbol
+Airports:EPZE:name
+Airports:EPZE:symbol
+Airports:EPZG:name
+Airports:EPZG:symbol
+Airports:EPZP:name
+Airports:EPZP:symbol
+Airports:EPZR:name
+Airports:EPZR:symbol
+Free Text:EPBC STAND + TWY [2021]\A1:freetext
+Free Text:EPBC STAND + TWY [2021]\A2:freetext
+Free Text:EPBC STAND + TWY [2021]\AW Szybowce:freetext
+Free Text:EPBC STAND + TWY [2021]\Aeroclub:freetext
+Free Text:EPBC STAND + TWY [2021]\Aeroclub Aviator:freetext
+Free Text:EPBC STAND + TWY [2021]\Apron 1:freetext
+Free Text:EPBC STAND + TWY [2021]\B1:freetext
+Free Text:EPBC STAND + TWY [2021]\B2:freetext
+Free Text:EPBC STAND + TWY [2021]\C:freetext
+Free Text:EPBC STAND + TWY [2021]\D1:freetext
+Free Text:EPBC STAND + TWY [2021]\D2:freetext
+Free Text:EPBC STAND + TWY [2021]\HELI Invest:freetext
+Free Text:EPBC STAND + TWY [2021]\HEMS:freetext
+Free Text:EPBC STAND + TWY [2021]\HUSAIR:freetext
+Free Text:EPBC STAND + TWY [2021]\Hangar 4:freetext
+Free Text:EPBC STAND + TWY [2021]\Hangar 5:freetext
+Free Text:EPBC STAND + TWY [2021]\Hangar 6:freetext
+Free Text:EPBC STAND + TWY [2021]\IBEX:freetext
+Free Text:EPBC STAND + TWY [2021]\TWR:freetext
+Free Text:EPBY Ladowiska\?nin H029:freetext
+Free Text:EPBY Ladowiska\?wiecie H097:freetext
+Free Text:EPBY Ladowiska\Brodnica H108:freetext
+Free Text:EPBY Ladowiska\Bydgoszcz Biziela H001:freetext
+Free Text:EPBY Ladowiska\Bydgoszcz Jurasza H105:freetext
+Free Text:EPBY Ladowiska\Bydgoszcz Wojskowy H003:freetext
+Free Text:EPBY Ladowiska\Grudzi?dz H044:freetext
+Free Text:EPBY Ladowiska\Inowroc?aw H016:freetext
+Free Text:EPBY Ladowiska\Lipno H063:freetext
+Free Text:EPBY Ladowiska\Radziejów H085:freetext
+Free Text:EPBY Ladowiska\Toru? H027:freetext
+Free Text:EPBY Ladowiska\Toru? Rydygiera H115:freetext
+Free Text:EPBY Ladowiska\W?oc?awek H606:freetext
+Free Text:EPBY STD + TWY [2022]\02:freetext
+Free Text:EPBY STD + TWY [2022]\08L:freetext
+Free Text:EPBY STD + TWY [2022]\1:freetext
+Free Text:EPBY STD + TWY [2022]\10:freetext
+Free Text:EPBY STD + TWY [2022]\11:freetext
+Free Text:EPBY STD + TWY [2022]\12:freetext
+Free Text:EPBY STD + TWY [2022]\13:freetext
+Free Text:EPBY STD + TWY [2022]\14:freetext
+Free Text:EPBY STD + TWY [2022]\15:freetext
+Free Text:EPBY STD + TWY [2022]\16:freetext
+Free Text:EPBY STD + TWY [2022]\17:freetext
+Free Text:EPBY STD + TWY [2022]\18:freetext
+Free Text:EPBY STD + TWY [2022]\19:freetext
+Free Text:EPBY STD + TWY [2022]\1A:freetext
+Free Text:EPBY STD + TWY [2022]\2:freetext
+Free Text:EPBY STD + TWY [2022]\20:freetext
+Free Text:EPBY STD + TWY [2022]\21:freetext
+Free Text:EPBY STD + TWY [2022]\22:freetext
+Free Text:EPBY STD + TWY [2022]\23:freetext
+Free Text:EPBY STD + TWY [2022]\24:freetext
+Free Text:EPBY STD + TWY [2022]\25:freetext
+Free Text:EPBY STD + TWY [2022]\26:freetext
+Free Text:EPBY STD + TWY [2022]\26R:freetext
+Free Text:EPBY STD + TWY [2022]\27:freetext
+Free Text:EPBY STD + TWY [2022]\28:freetext
+Free Text:EPBY STD + TWY [2022]\29:freetext
+Free Text:EPBY STD + TWY [2022]\2A:freetext
+Free Text:EPBY STD + TWY [2022]\3:freetext
+Free Text:EPBY STD + TWY [2022]\30:freetext
+Free Text:EPBY STD + TWY [2022]\31:freetext
+Free Text:EPBY STD + TWY [2022]\32:freetext
+Free Text:EPBY STD + TWY [2022]\32A:freetext
+Free Text:EPBY STD + TWY [2022]\33:freetext
+Free Text:EPBY STD + TWY [2022]\34:freetext
+Free Text:EPBY STD + TWY [2022]\35:freetext
+Free Text:EPBY STD + TWY [2022]\4:freetext
+Free Text:EPBY STD + TWY [2022]\5:freetext
+Free Text:EPBY STD + TWY [2022]\6:freetext
+Free Text:EPBY STD + TWY [2022]\7:freetext
+Free Text:EPBY STD + TWY [2022]\8:freetext
+Free Text:EPBY STD + TWY [2022]\9:freetext
+Free Text:EPBY STD + TWY [2022]\A:freetext
+Free Text:EPBY STD + TWY [2022]\AEROKLUB:freetext
+Free Text:EPBY STD + TWY [2022]\APRON GA:freetext
+Free Text:EPBY STD + TWY [2022]\B:freetext
+Free Text:EPBY STD + TWY [2022]\C:freetext
+Free Text:EPBY STD + TWY [2022]\C1:freetext
+Free Text:EPBY STD + TWY [2022]\CARGO:freetext
+Free Text:EPBY STD + TWY [2022]\D:freetext
+Free Text:EPBY STD + TWY [2022]\E1:freetext
+Free Text:EPBY STD + TWY [2022]\E2:freetext
+Free Text:EPBY STD + TWY [2022]\E3:freetext
+Free Text:EPBY STD + TWY [2022]\F:freetext
+Free Text:EPBY STD + TWY [2022]\HANGARS:freetext
+Free Text:EPBY STD + TWY [2022]\TWR:freetext
+Free Text:EPBY STD + TWY [2022]\WZL:freetext
+Free Text:EPBY STD + TWY [2022]\ZONDA AERO:freetext
+Free Text:EPBY VFR Points\K:freetext
+Free Text:EPBY VFR Points\L:freetext
+Free Text:EPBY VFR Points\M:freetext
+Free Text:EPBY VFR Points\N:freetext
+Free Text:EPBY VFR Points\O:freetext
+Free Text:EPBY VFR Points\P:freetext
+Free Text:EPBY VFR Points\R:freetext
+Free Text:EPBY VFR Points\S:freetext
+Free Text:EPBY VFR Points\U:freetext
+Free Text:EPBY VFR Points\W:freetext
+Free Text:EPLB STAND + TWY\1:freetext
+Free Text:EPLB STAND + TWY\10:freetext
+Free Text:EPLB STAND + TWY\2:freetext
+Free Text:EPLB STAND + TWY\3:freetext
+Free Text:EPLB STAND + TWY\5:freetext
+Free Text:EPLB STAND + TWY\7:freetext
+Free Text:EPLB STAND + TWY\9:freetext
+Free Text:EPLB STAND + TWY\A:freetext
+Free Text:EPLB VFR Points\C:freetext
+Free Text:EPLB VFR Points\E:freetext
+Free Text:EPLB VFR Points\F:freetext
+Free Text:EPLB VFR Points\G:freetext
+Free Text:EPLB VFR Points\H:freetext
+Free Text:EPLB VFR Points\I:freetext
+Free Text:EPLB VFR Points\M:freetext
+Free Text:EPLB VFR Points\O:freetext
+Free Text:EPLB VFR Points\X:freetext
+Free Text:EPLB VFR Points\Y:freetext
+Free Text:EPLL Ladowiska\??czyca H598:freetext
+Free Text:EPLL Ladowiska\?owicz H519:freetext
+Free Text:EPLL Ladowiska\Belchatow H500:freetext
+Free Text:EPLL Ladowiska\Brzeziny H591:freetext
+Free Text:EPLL Ladowiska\Kutno H562:freetext
+Free Text:EPLL Ladowiska\Lodz ICZMP H520:freetext
+Free Text:EPLL Ladowiska\Lodz Kopernika H521:freetext
+Free Text:EPLL Ladowiska\Lodz USK-WAM H627:freetext
+Free Text:EPLL Ladowiska\Opoczno H615:freetext
+Free Text:EPLL Ladowiska\Pabianice H630:freetext
+Free Text:EPLL Ladowiska\Piotrkow Trybunalski H530:freetext
+Free Text:EPLL Ladowiska\Podd?bice H600:freetext
+Free Text:EPLL Ladowiska\Radomsko H607:freetext
+Free Text:EPLL Ladowiska\Rawa Mazowiecka H587:freetext
+Free Text:EPLL Ladowiska\Sieradz H574:freetext
+Free Text:EPLL Ladowiska\Skierniewice H575:freetext
+Free Text:EPLL Ladowiska\Tomaszow Mazowiecki H601:freetext
+Free Text:EPLL Ladowiska\Wielun - mleczarnia H602:freetext
+Free Text:EPLL Ladowiska\Wielun - szpital H625:freetext
+Free Text:EPLL Ladowiska\Wieruszow H603:freetext
+Free Text:EPLL Ladowiska\Zgierz H589:freetext
+Free Text:EPLL STAND + TWY\1:freetext
+Free Text:EPLL STAND + TWY\10:freetext
+Free Text:EPLL STAND + TWY\11:freetext
+Free Text:EPLL STAND + TWY\12:freetext
+Free Text:EPLL STAND + TWY\13:freetext
+Free Text:EPLL STAND + TWY\14:freetext
+Free Text:EPLL STAND + TWY\15:freetext
+Free Text:EPLL STAND + TWY\16:freetext
+Free Text:EPLL STAND + TWY\17:freetext
+Free Text:EPLL STAND + TWY\18:freetext
+Free Text:EPLL STAND + TWY\2:freetext
+Free Text:EPLL STAND + TWY\3:freetext
+Free Text:EPLL STAND + TWY\4:freetext
+Free Text:EPLL STAND + TWY\5:freetext
+Free Text:EPLL STAND + TWY\6:freetext
+Free Text:EPLL STAND + TWY\7:freetext
+Free Text:EPLL STAND + TWY\8:freetext
+Free Text:EPLL STAND + TWY\9:freetext
+Free Text:EPLL STAND + TWY\A:freetext
+Free Text:EPLL STAND + TWY\B:freetext
+Free Text:EPLL STAND + TWY\C:freetext
+Free Text:EPRA Stands + TWY\1:freetext
+Free Text:EPRA Stands + TWY\10:freetext
+Free Text:EPRA Stands + TWY\11:freetext
+Free Text:EPRA Stands + TWY\12:freetext
+Free Text:EPRA Stands + TWY\13:freetext
+Free Text:EPRA Stands + TWY\14:freetext
+Free Text:EPRA Stands + TWY\2:freetext
+Free Text:EPRA Stands + TWY\3:freetext
+Free Text:EPRA Stands + TWY\4:freetext
+Free Text:EPRA Stands + TWY\5:freetext
+Free Text:EPRA Stands + TWY\6:freetext
+Free Text:EPRA Stands + TWY\7:freetext
+Free Text:EPRA Stands + TWY\8:freetext
+Free Text:EPRA Stands + TWY\9:freetext
+Free Text:EPRA Stands + TWY\A:freetext
+Free Text:EPRA Stands + TWY\A1:freetext
+Free Text:EPRA Stands + TWY\A5:freetext
+Free Text:EPRA Stands + TWY\A6:freetext
+Free Text:EPRA Stands + TWY\Apron 1:freetext
+Free Text:EPRA Stands + TWY\Apron 2 (DEICE):freetext
+Free Text:EPRA Stands + TWY\Apron 3 (MIL):freetext
+Free Text:EPRA Stands + TWY\Apron 4 (MIL):freetext
+Free Text:EPRA Stands + TWY\Apron 5 (MIL):freetext
+Free Text:EPRA Stands + TWY\B:freetext
+Free Text:EPRA Stands + TWY\D:freetext
+Free Text:EPRA Stands + TWY\E:freetext
+Free Text:EPRA Stands + TWY\FIRE STATION:freetext
+Free Text:EPRA Stands + TWY\G:freetext
+Free Text:EPRA Stands + TWY\H:freetext
+Free Text:EPRA Stands + TWY\HANGAR:freetext
+Free Text:EPRA Stands + TWY\K1:freetext
+Free Text:EPRA Stands + TWY\K2:freetext
+Free Text:EPRA Stands + TWY\K3:freetext
+Free Text:EPRA Stands + TWY\K4:freetext
+Free Text:EPRA Stands + TWY\K5:freetext
+Free Text:EPRA Stands + TWY\M:freetext
+Free Text:EPRA Stands + TWY\M1:freetext
+Free Text:EPRA Stands + TWY\M2:freetext
+Free Text:EPRA Stands + TWY\M3:freetext
+Free Text:EPRA Stands + TWY\S:freetext
+Free Text:EPRA Stands + TWY\TWR:freetext
+Free Text:EPRA Stands + TWY\TWR (MIL):freetext
+Free Text:EPRZ Ladowiska\Brzozów H318:freetext
+Free Text:EPRZ Ladowiska\D?bica H336:freetext
+Free Text:EPRZ Ladowiska\Jaros?aw H333:freetext
+Free Text:EPRZ Ladowiska\Jas?o H254:freetext
+Free Text:EPRZ Ladowiska\Krosno H266:freetext
+Free Text:EPRZ Ladowiska\Le?ajsk H334:freetext
+Free Text:EPRZ Ladowiska\Lesko H267:freetext
+Free Text:EPRZ Ladowiska\Lubaczów H822:freetext
+Free Text:EPRZ Ladowiska\Mielec H320:freetext
+Free Text:EPRZ Ladowiska\Przemy?l H279:freetext
+Free Text:EPRZ Ladowiska\Rzeszów H281:freetext
+Free Text:EPRZ Ladowiska\Rzeszów MSWiA H340:freetext
+Free Text:EPRZ Ladowiska\Sanok H314:freetext
+Free Text:EPRZ Ladowiska\Stalowa Wola H331:freetext
+Free Text:EPRZ STAND + TWY [2022]\08L:freetext
+Free Text:EPRZ STAND + TWY [2022]\08R:freetext
+Free Text:EPRZ STAND + TWY [2022]\1:freetext
+Free Text:EPRZ STAND + TWY [2022]\15:freetext
+Free Text:EPRZ STAND + TWY [2022]\2:freetext
+Free Text:EPRZ STAND + TWY [2022]\21:freetext
+Free Text:EPRZ STAND + TWY [2022]\22:freetext
+Free Text:EPRZ STAND + TWY [2022]\23:freetext
+Free Text:EPRZ STAND + TWY [2022]\24:freetext
+Free Text:EPRZ STAND + TWY [2022]\25:freetext
+Free Text:EPRZ STAND + TWY [2022]\26L:freetext
+Free Text:EPRZ STAND + TWY [2022]\26R:freetext
+Free Text:EPRZ STAND + TWY [2022]\3:freetext
+Free Text:EPRZ STAND + TWY [2022]\4:freetext
+Free Text:EPRZ STAND + TWY [2022]\5:freetext
+Free Text:EPRZ STAND + TWY [2022]\7:freetext
+Free Text:EPRZ STAND + TWY [2022]\A:freetext
+Free Text:EPRZ STAND + TWY [2022]\AEROKLUB:freetext
+Free Text:EPRZ STAND + TWY [2022]\AIR RES:freetext
+Free Text:EPRZ STAND + TWY [2022]\APRON 1:freetext
+Free Text:EPRZ STAND + TWY [2022]\APRON 2:freetext
+Free Text:EPRZ STAND + TWY [2022]\APRON PPH:freetext
+Free Text:EPRZ STAND + TWY [2022]\B:freetext
+Free Text:EPRZ STAND + TWY [2022]\C1:freetext
+Free Text:EPRZ STAND + TWY [2022]\C2:freetext
+Free Text:EPRZ STAND + TWY [2022]\D1:freetext
+Free Text:EPRZ STAND + TWY [2022]\D2:freetext
+Free Text:EPRZ STAND + TWY [2022]\G:freetext
+Free Text:EPRZ STAND + TWY [2022]\GA:freetext
+Free Text:EPRZ STAND + TWY [2022]\H:freetext
+Free Text:EPRZ STAND + TWY [2022]\H1:freetext
+Free Text:EPRZ STAND + TWY [2022]\H2:freetext
+Free Text:EPRZ STAND + TWY [2022]\HANGAR:freetext
+Free Text:EPRZ STAND + TWY [2022]\HANGARS:freetext
+Free Text:EPRZ STAND + TWY [2022]\J:freetext
+Free Text:EPRZ STAND + TWY [2022]\K:freetext
+Free Text:EPRZ STAND + TWY [2022]\L:freetext
+Free Text:EPRZ STAND + TWY [2022]\M:freetext
+Free Text:EPRZ STAND + TWY [2022]\N:freetext
+Free Text:EPRZ STAND + TWY [2022]\OKL:freetext
+Free Text:EPRZ STAND + TWY [2022]\R1:freetext
+Free Text:EPRZ STAND + TWY [2022]\R2:freetext
+Free Text:EPRZ STAND + TWY [2022]\R3:freetext
+Free Text:EPRZ STAND + TWY [2022]\TLOF:freetext
+Free Text:EPRZ STAND + TWY [2022]\TWR:freetext
+Free Text:EPRZ STAND + TWY [2022]\Z:freetext
+Free Text:EPSC Ladowiska\?winouj?cie H804:freetext
+Free Text:EPSC Ladowiska\Gryfice H753:freetext
+Free Text:EPSC Ladowiska\Koszalin H807:freetext
+Free Text:EPSC Ladowiska\Szczecin Arko?ska H829:freetext
+Free Text:EPSC Ladowiska\Szczecin Unia Lubelska H767:freetext
+Free Text:EPSC Ladowiska\Szczecin Zdroje H823:freetext
+Free Text:EPSC Ladowiska\Szczecin Zdunowo H819:freetext
+Free Text:EPSC Ladowiska\Szczecinek H813:freetext
+Free Text:EPSC Ladowiska\Wa?cz H805:freetext
+Free Text:EPSC STAND + TWY\1:freetext
+Free Text:EPSC STAND + TWY\10:freetext
+Free Text:EPSC STAND + TWY\11:freetext
+Free Text:EPSC STAND + TWY\12:freetext
+Free Text:EPSC STAND + TWY\13:freetext
+Free Text:EPSC STAND + TWY\14:freetext
+Free Text:EPSC STAND + TWY\15:freetext
+Free Text:EPSC STAND + TWY\16:freetext
+Free Text:EPSC STAND + TWY\2:freetext
+Free Text:EPSC STAND + TWY\3:freetext
+Free Text:EPSC STAND + TWY\4:freetext
+Free Text:EPSC STAND + TWY\5:freetext
+Free Text:EPSC STAND + TWY\6:freetext
+Free Text:EPSC STAND + TWY\7:freetext
+Free Text:EPSC STAND + TWY\8:freetext
+Free Text:EPSC STAND + TWY\9:freetext
+Free Text:EPSC STAND + TWY\A1:freetext
+Free Text:EPSC STAND + TWY\A2:freetext
+Free Text:EPSC STAND + TWY\A3:freetext
+Free Text:EPSC STAND + TWY\B:freetext
+Free Text:EPSC STAND + TWY\C:freetext
+Free Text:EPSC STAND + TWY\D:freetext
+Free Text:EPSC STAND + TWY\F:freetext
+Free Text:EPSC STAND + TWY\G:freetext
+Free Text:EPSC STAND + TWY\H:freetext
+Free Text:EPSC STAND + TWY\R:freetext
+Free Text:EPSY STAND + TWY\1:freetext
+Free Text:EPSY STAND + TWY\2:freetext
+Free Text:EPSY STAND + TWY\3:freetext
+Free Text:EPSY STAND + TWY\B:freetext
+Free Text:EPSY STAND + TWY\S:freetext
+Free Text:EPZG Ladowiska\?ary H802:freetext
+Free Text:EPZG Ladowiska\?wiebodzin H796:freetext
+Free Text:EPZG Ladowiska\Gorzów Wielkopolski H751:freetext
+Free Text:EPZG Ladowiska\Nowa Sól H760:freetext
+Free Text:EPZG Ladowiska\S?ubice H791:freetext
+Free Text:EPZG Ladowiska\Sul?cin H817:freetext
+Free Text:EPZG Ladowiska\Zielona Góra H776:freetext
+Free Text:EPZG STAND + TWY\1:freetext
+Free Text:EPZG STAND + TWY\2:freetext
+Free Text:EPZG STAND + TWY\3:freetext
+Free Text:EPZG STAND + TWY\4:freetext
+Free Text:EPZG STAND + TWY\5:freetext
+Free Text:EPZG STAND + TWY\6:freetext
+Free Text:EPZG STAND + TWY\7:freetext
+Free Text:EPZG STAND + TWY\8:freetext
+Free Text:EPZG STAND + TWY\A:freetext
+Free Text:EPZG STAND + TWY\E:freetext
+Free Text:EPZG STAND + TWY\K:freetext
+Free Text:EPZG STAND + TWY\L:freetext
+Geo:EPBC Groundlayout:
+Geo:EPBY Groundlayout SMR TWY:
+Geo:EPLB Groundlayout:
+Geo:EPLL Groundlayout:
+Geo:EPRZ Groundlayout SMR TWY:
+Geo:EPSC Groundlayout:
+Geo:EPSY Groundlayout:
+Geo:EPZG Groundlayout SMR TWY:
+Regions:EPBC SMR:polygon
+Regions:EPBY SMR:polygon
+Regions:EPLB SMR:polygon
+Regions:EPLL SMR:polygon
+Regions:EPRA SMR:polygon
+Regions:EPRZ SMR:polygon
+Regions:EPSC SMR:polygon
+Regions:EPSY SMR:polygon
+Regions:EPZG SMR:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:10000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:P21-TWR
+WINDOWAREA:52.132499:20.863846:52.199166:21.070598
+PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
+PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
+PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
+PLUGIN:EuroScope History Trails:HistoryTrailDisplay:1
+PLUGIN:EuroScope History Trails:HistoryTrailDotSize:4
+PLUGIN:EuroScope History Trails:HistoryTrailFade:1
+PLUGIN:EuroScope History Trails:HistoryTrailLength:15
+PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
+PLUGIN:EuroScope History Trails:HistoryTrailType:0
+PLUGIN:Ground Radar plugin:GroundMode:EPWW

@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<initialClimb>
+    <apt icao="EPGD">
+		<runway name="29">
+			<sid name="DEXIR">
+				<alt>050</alt>
+			</sid>
+			<sid name="IRLUN">
+				<alt>050</alt>
+			</sid>
+			<sid name="NIKMI">
+				<alt>050</alt>
+			</sid>
+			<sid name="VAPOS">
+				<alt>050</alt>
+			</sid>
+			<sid name="VIZAN">
+				<alt>050</alt>
+			</sid>
+		</runway>
+		<runway name="11">
+			<sid name="DEXIR">
+				<alt>050</alt>
+			</sid>
+			<sid name="IRLUN">
+				<alt>050</alt>
+			</sid>
+			<sid name="NIKMI">
+				<alt>050</alt>
+			</sid>
+			<sid name="VAPOS">
+				<alt>050</alt>
+			</sid>
+			<sid name="VIZAN">
+				<alt>050</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="EPKK">
+		<runway name="25">
+			<sid name="ADADO">
+				<alt>060</alt>
+			</sid>
+			<sid name="BABKO">
+				<alt>060</alt>
+			</sid>
+			<sid name="LUMVE">
+				<alt>060</alt>
+			</sid>
+			<sid name="LUXAR">
+				<alt>060</alt>
+			</sid>
+			<sid name="NAVUR">
+				<alt>060</alt>
+			</sid>
+			<sid name="OMFOL">
+				<alt>060</alt>
+			</sid>
+			<sid name="POBOK">
+				<alt>060</alt>
+			</sid>
+			<sid name="REGTO">
+				<alt>060</alt>
+			</sid>
+			<sid name="TUSIN">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="07">
+			<sid name="ADADO">
+				<alt>060</alt>
+			</sid>
+			<sid name="BABKO">
+				<alt>060</alt>
+			</sid>
+			<sid name="LUMVE">
+				<alt>060</alt>
+			</sid>
+			<sid name="LUXAR">
+				<alt>060</alt>
+			</sid>
+			<sid name="NAVUR">
+				<alt>060</alt>
+			</sid>
+			<sid name="OMFOL">
+				<alt>060</alt>
+			</sid>
+			<sid name="POBOK">
+				<alt>060</alt>
+			</sid>
+			<sid name="REGTO">
+				<alt>060</alt>
+			</sid>
+			<sid name="TUSIN">
+				<alt>060</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="EPKT">
+		<runway name="26">
+			<sid name="ADADO">
+				<alt>060</alt>
+			</sid>
+			<sid name="BABKO">
+				<alt>060</alt>
+			</sid>
+			<sid name="KURON">
+				<alt>060</alt>
+			</sid>
+			<sid name="LUMVE">
+				<alt>060</alt>
+			</sid>
+			<sid name="LUXAR">
+				<alt>060</alt>
+			</sid>
+			<sid name="NAVUR">
+				<alt>060</alt>
+			</sid>
+			<sid name="OMFOL">
+				<alt>060</alt>
+			</sid>
+			<sid name="REGTO">
+				<alt>060</alt>
+			</sid>
+			<sid name="TUSIN">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="08">
+			<sid name="ADADO">
+				<alt>060</alt>
+			</sid>
+			<sid name="BABKO">
+				<alt>060</alt>
+			</sid>
+			<sid name="KURON">
+				<alt>060</alt>
+			</sid>
+			<sid name="LUMVE">
+				<alt>060</alt>
+			</sid>
+			<sid name="LUXAR">
+				<alt>060</alt>
+			</sid>
+			<sid name="NAVUR">
+				<alt>060</alt>
+			</sid>
+			<sid name="OMFOL">
+				<alt>060</alt>
+			</sid>
+			<sid name="REGTO">
+				<alt>060</alt>
+			</sid>
+			<sid name="TUSIN">
+				<alt>060</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="EPMO">
+		<runway name="26">
+			<sid name="BAMSO">
+				<alt>060</alt>
+			</sid>
+			<sid name="EVINA">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOLSI">
+				<alt>060</alt>
+			</sid>
+			<sid name="OLILA">
+				<alt>060</alt>
+			</sid>
+			<sid name="SOXER">
+				<alt>060</alt>
+			</sid>
+			<sid name="XIMBA">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="08">
+			<sid name="BAMSO">
+				<alt>060</alt>
+			</sid>
+			<sid name="EVINA">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOLSI">
+				<alt>060</alt>
+			</sid>
+			<sid name="OLILA">
+				<alt>060</alt>
+			</sid>
+			<sid name="SOXER">
+				<alt>060</alt>
+			</sid>
+			<sid name="XIMBA">
+				<alt>060</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="EPMO">
+		<runway name="28">
+			<sid name="DEKUT">
+				<alt>060</alt>
+			</sid>
+			<sid name="ELSUP">
+				<alt>060</alt>
+			</sid>
+			<sid name="ERNOX">
+				<alt>060</alt>
+			</sid>
+			<sid name="OBOKU">
+				<alt>060</alt>
+			</sid>
+			<sid name="XERBI">
+				<alt>060</alt>
+			</sid>
+			<sid name="XIDNA">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="10">
+			<sid name="DEKUT">
+				<alt>060</alt>
+			</sid>
+			<sid name="ELSUP">
+				<alt>060</alt>
+			</sid>
+			<sid name="ERNOX">
+				<alt>060</alt>
+			</sid>
+			<sid name="OBOKU">
+				<alt>060</alt>
+			</sid>
+			<sid name="XERBI">
+				<alt>060</alt>
+			</sid>
+			<sid name="XIDNA">
+				<alt>060</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="EPWA">
+		<runway name="11">
+			<sid name="BAMSO">
+				<alt>060</alt>
+			</sid>
+			<sid name="EVINA">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOLSI">
+				<alt>060</alt>
+			</sid>
+			<sid name="OLILA">
+				<alt>060</alt>
+			</sid>
+			<sid name="SOXER">
+				<alt>060</alt>
+			</sid>
+			<sid name="XIMBA">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="15">
+			<sid name="BAMSO">
+				<alt>060</alt>
+			</sid>
+			<sid name="EVINA">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOLSI">
+				<alt>060</alt>
+			</sid>
+			<sid name="OLILA">
+				<alt>060</alt>
+			</sid>
+			<sid name="SOXER">
+				<alt>060</alt>
+			</sid>
+			<sid name="XIMBA">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="29">
+			<sid name="BAMSO">
+				<alt>060</alt>
+			</sid>
+			<sid name="EVINA">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOLSI">
+				<alt>060</alt>
+			</sid>
+			<sid name="OLILA">
+				<alt>060</alt>
+			</sid>
+			<sid name="SOXER">
+				<alt>060</alt>
+			</sid>
+			<sid name="XIMBA">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="33">
+			<sid name="BAMSO">
+				<alt>060</alt>
+			</sid>
+			<sid name="EVINA">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOLSI">
+				<alt>060</alt>
+			</sid>
+			<sid name="OLILA">
+				<alt>060</alt>
+			</sid>
+			<sid name="SOXER">
+				<alt>060</alt>
+			</sid>
+			<sid name="XIMBA">
+				<alt>060</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="EPWR">
+		<runway name="29">
+			<sid name="LUNUK">
+				<alt>060</alt>
+			</sid>
+			<sid name="MOFKE">
+				<alt>060</alt>
+			</sid>
+			<sid name="PEKOT">
+				<alt>060</alt>
+			</sid>
+			<sid name="ULGIL">
+				<alt>060</alt>
+			</sid>
+			<sid name="XIDNA">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="11">
+			<sid name="LUNUK">
+				<alt>060</alt>
+			</sid>
+			<sid name="MOFKE">
+				<alt>060</alt>
+			</sid>
+			<sid name="PEKOT">
+				<alt>060</alt>
+			</sid>
+			<sid name="ULGIL">
+				<alt>060</alt>
+			</sid>
+			<sid name="XIDNA">
+				<alt>060</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="EPLL">
+		<runway name="25">
+			<sid name="AGAVA">
+				<alt>060</alt>
+			</sid>
+			<sid name="VIDEV">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOZ">
+				<alt>060</alt>
+			</sid>
+			<sid name="UTOLU">
+				<alt>060</alt>
+			</sid>
+			<sid name="BAXIS">
+				<alt>060</alt>
+			</sid>
+			<sid name="ADOXO">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="07">
+			<sid name="AGAVA">
+				<alt>060</alt>
+			</sid>
+			<sid name="VIDEV">
+				<alt>060</alt>
+			</sid>
+			<sid name="LOZ">
+				<alt>060</alt>
+			</sid>
+			<sid name="UTOLU">
+				<alt>060</alt>
+			</sid>
+			<sid name="BAXIS">
+				<alt>060</alt>
+			</sid>
+			<sid name="ADOXO">
+				<alt>060</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="EPBY">
+		<runway name="26">
+			<sid name="GOBNI">
+				<alt>060</alt>
+			</sid>
+			<sid name="INTUN">
+				<alt>060</alt>
+			</sid>
+			<sid name="LUXUD">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="08">
+			<sid name="GOBNI">
+				<alt>060</alt>
+			</sid>
+			<sid name="INTUN">
+				<alt>060</alt>
+			</sid>
+			<sid name="LUXUD">
+				<alt>060</alt>
+			</sid>
+			<sid name="LUXUD1B">
+				<alt>080</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="EPRZ">
+		<runway name="27">
+			<sid name="DIBED">
+				<alt>110</alt>
+			</sid>
+		</runway>
+		<runway name="09">
+			<sid name="DIBED">
+				<alt>110</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="EPSC">
+		<runway name="27">
+			<sid name="BINKA">
+				<alt>120</alt>
+			</sid>
+			<sid name="PESEL">
+				<alt>120</alt>
+			</sid>
+		</runway>
+		<runway name="09">
+			<sid name="BINKA">
+				<alt>120</alt>
+			</sid>
+			<sid name="PESEL">
+				<alt>120</alt>
+			</sid>
+		</runway>
+    </apt>
+</initialClimb>

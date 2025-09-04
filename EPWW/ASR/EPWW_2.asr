@@ -1,0 +1,52 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:TMA EPBY OUT:
+ARTCC boundary:Gdansk TMA OUT:
+ARTCC boundary:TMA EPKK OUT:
+ARTCC boundary:Lublin TMA OUT:
+ARTCC boundary:TMA EPLL OUT:
+ARTCC boundary:Poznan TMA OUT:
+ARTCC boundary:TMA EPRZ OUT:
+ARTCC boundary:TMA EPSC OUT:
+ARTCC boundary:TMA EPSY OUT:
+ARTCC boundary:TMA EPWA OUT:
+ARTCC boundary:TMA EPZG OUT:
+ARTCC high boundary:AoR CTR EPWW ESAA:
+ARTCC high boundary:FIR border EDGG:
+ARTCC high boundary:FIR border EDMM:
+ARTCC high boundary:FIR border EDWW FIR EDWW:
+ARTCC high boundary:FIR border EPWW:
+ARTCC high boundary:FIR border EPWW EYVL FIR Border:
+ARTCC high boundary:FIR border EPWW UMMV FIR Sector West:
+ARTCC high boundary:FIR border LKAA:
+ARTCC high boundary:FIR border LZBB Boarder:
+ARTCC high boundary:FIR border UKLV UKLV West:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:P21-ACC
+WINDOWAREA:47.433306:5.825181:56.359876:33.036972
+PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
+PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
+PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
+PLUGIN:EuroScope History Trails:HistoryTrailDisplay:1
+PLUGIN:EuroScope History Trails:HistoryTrailDotSize:4
+PLUGIN:EuroScope History Trails:HistoryTrailFade:1
+PLUGIN:EuroScope History Trails:HistoryTrailLength:15
+PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
+PLUGIN:EuroScope History Trails:HistoryTrailType:0
+PLUGIN:RDF Plugin for Euroscope:Radius:50
+PLUGIN:RDF Plugin for Euroscope:RGB:9:183:100

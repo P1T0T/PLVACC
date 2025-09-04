@@ -1,0 +1,16 @@
+220645: sidInterval - ENABLED
+220645: Called getSidIntervalValuesUrl...
+220646: FINISHED getSidIntervalValuesUrl
+220646: Called getCdmServerRestricted...
+220646: Called getEcfmpData...
+220646: Call - Fetching CTOTs
+220646: Called getCdmServerStatus..220646: AUTO - Call getEcfmpData
+220646: COMPLETED - getNetworkRates
+220646: COMPLETED - getCdmServerStatus
+220646: Call sendWaitingTOBT - 0
+220646: Called sendWaitingTOBT...
+220646: Call sendWaitingCdmSts - 0
+220646: Call sendCheckCIDLater - 0
+220646: COMPLETED - Fetching CTOTs
+220646: Called getCtotsFromUrl...
+220646: AUTO - FINISHED getEcfmpData

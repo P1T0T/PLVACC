@@ -1,0 +1,34 @@
+\--
+--\Poland ACC.prf		<- Prepared PRF for ACC Area
+--\Poland APP.prf		<- Prepared PRF for APP Approach
+--\Poland TWR.prf		<- Prepared PRF for TWR Tower
+--\Poland GMC.prf		<- Prepared PRF for GMC Ground Movement
+--\EPWW-Sector_<airac>.sct	<- Sectorfile
+--\EPWW-Sector_<airac>.ese	<- Sectorfile extension
+
+\EPWW\--
+--\Plugins\.dll			<- Preloaded plugins
+--\NavData\AIRWAY.txt		<- NavData Files (FSNav)
+--\ICAO\ICAO_Aircraft.txt	<- ICAO Files
+--\ICAO\ICAO_Airlines.txt	<- ICAO Files
+--\ICAO\ICAO_Airports.txt	<- ICAO Files
+--\ASR\<ICAO>_<POS>.asr		<- Prepared ASR per Function
+--\SETTINGS\P21.txt		<- Tags & Symbology
+--\SETTINGS\ACC.txt		<- Other settings for ACC positions
+--\SETTINGS\APP.txt		<- Other settings for APP positions
+--\SETTINGS\TWR.txt		<- Other settings for TWR positions
+--\SETTINGS\GMC.txt		<- Other settings for GMC positions
+--\SETTINGS\EPWW_freq.txt	<- Frequency list
+--\SETTINGS\PLUGINS.txt		<- Plugins list
+--\SETTINGS\<POS>_Positions.txt <- Connectivity Positions lists
+
+
+Plugin lists:
+0) AudioForVATSIMBridge.dll
+1) CCAMS.dll
+2) GRPlugin.dll
+3) vSMR.dll
+4) DiscordforEuroscope.dll
+5) P21Euroscope.dll
+6) AMAN.dll (for Approach only)
+7) EuroScopeTrails.dll (ACC, APP, TWR only)

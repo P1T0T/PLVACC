@@ -1,0 +1,584 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\x\Desktop\Lotnictwo\Euroscope EPWW APP\EPWW-Sector_20220501001153-220401-0001.sct
+SECTORTITLE:EPWW-Sector_20220501001153-220401-0001.sct
+ARTCC high boundary:FIR border EPWW:
+ARTCC low boundary:MRVA EPPO NORTH:
+ARTCC low boundary:MRVA EPPO SOUTH:
+Fixes:AKAPI:name
+Fixes:AKAPI:symbol
+Fixes:BAREP:name
+Fixes:BAREP:symbol
+Fixes:DEKUT:name
+Fixes:DEKUT:symbol
+Fixes:DENKO:name
+Fixes:DENKO:symbol
+Fixes:DINOV:name
+Fixes:DINOV:symbol
+Fixes:ELSUP:name
+Fixes:ELSUP:symbol
+Fixes:EPOPA:name
+Fixes:EPOPA:symbol
+Fixes:ERNOX:name
+Fixes:ERNOX:symbol
+Fixes:KELOD:name
+Fixes:KELOD:symbol
+Fixes:LUNUK:name
+Fixes:LUNUK:symbol
+Fixes:MAPIK:name
+Fixes:MAPIK:symbol
+Fixes:MASIV:name
+Fixes:MASIV:symbol
+Fixes:NILPU:name
+Fixes:NILPU:symbol
+Fixes:OBOKU:name
+Fixes:OBOKU:symbol
+Fixes:OBOLA:name
+Fixes:OBOLA:symbol
+Fixes:PEKOT:name
+Fixes:PEKOT:symbol
+Fixes:PO702:name
+Fixes:PO702:symbol
+Fixes:SUBIX:name
+Fixes:SUBIX:symbol
+Fixes:SUDOL:name
+Fixes:SUDOL:symbol
+Fixes:ULGIL:name
+Fixes:ULGIL:symbol
+Fixes:UVIVI:name
+Fixes:UVIVI:symbol
+Fixes:VAGNI:name
+Fixes:VAGNI:symbol
+Fixes:WR604:name
+Fixes:WR604:symbol
+Fixes:WR702:name
+Fixes:WR702:symbol
+Fixes:XERBI:name
+Fixes:XERBI:symbol
+Fixes:XIDNA:name
+Fixes:XIDNA:symbol
+Fixes:ZG423:name
+Fixes:ZG423:symbol
+Free Text:EPPO MRVA N\2000:freetext
+Free Text:EPPO MRVA N\2100:freetext
+Free Text:EPPO MRVA N\2100:freetext
+Free Text:EPPO MRVA N\2100:freetext
+Free Text:EPPO MRVA N\2400:freetext
+Free Text:EPPO MRVA N\4000:freetext
+Free Text:EPPO MRVA N\7000:freetext
+Free Text:EPPO MRVA N\F100:freetext
+Free Text:EPPO MRVA S\2100:freetext
+Free Text:EPPO MRVA S\2500:freetext
+Free Text:EPPO MRVA S\2700:freetext
+Free Text:EPPO MRVA S\6000:freetext
+Free Text:EPPO MRVA S\7000:freetext
+Free Text:EPPO MRVA S\7000:freetext
+Free Text:EPPO MRVA S\F100:freetext
+Free Text:SCT2\A007/GND:freetext
+Free Text:SCT2\A010/GND:freetext
+Free Text:SCT2\A010/GND:freetext
+Free Text:SCT2\A013/GND:freetext
+Free Text:SCT2\A015/GND:freetext
+Free Text:SCT2\A015/GND:freetext
+Free Text:SCT2\A020/GND:freetext
+Free Text:SCT2\A020/GND:freetext
+Free Text:SCT2\A020/GND:freetext
+Free Text:SCT2\A020/GND:freetext
+Free Text:SCT2\A027/GND:freetext
+Free Text:SCT2\A027/GND:freetext
+Free Text:SCT2\A027/GND:freetext
+Free Text:SCT2\A027/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A037/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A045/GND:freetext
+Free Text:SCT2\A050/GND:freetext
+Free Text:SCT2\A050/GND:freetext
+Free Text:SCT2\A050/GND:freetext
+Free Text:SCT2\A050/GND:freetext
+Free Text:SCT2\A053/GND:freetext
+Free Text:SCT2\A061/GND:freetext
+Free Text:SCT2\A064/GND:freetext
+Free Text:SCT2\A065/GND:freetext
+Free Text:SCT2\A075/GND:freetext
+Free Text:SCT2\A075/GND:freetext
+Free Text:SCT2\F085/GND:freetext
+Free Text:SCT2\F090/GND:freetext
+Free Text:SCT2\F090/GND:freetext
+Free Text:SCT2\F095/GND:freetext
+Free Text:SCT2\F115/GND:freetext
+Free Text:SCT2\F165/GND:freetext
+Free Text:SCT2\F410/F165:freetext
+Free Text:SCT2\F660/F410:freetext
+Geo:EPWW Prohibited area:
+Geo:EPWW Restricted area:
+Geo:GEO:
+Runways:EDDB 07L-25R:centerline
+Runways:EDDB 07L-25R:extended centerline 1
+Runways:EDDB 07L-25R:extended centerline 1 left base
+Runways:EDDB 07L-25R:extended centerline 1 left ticks
+Runways:EDDB 07L-25R:extended centerline 1 left vectoring
+Runways:EDDB 07L-25R:extended centerline 1 right base
+Runways:EDDB 07L-25R:extended centerline 1 right ticks
+Runways:EDDB 07L-25R:extended centerline 1 right vectoring
+Runways:EDDB 07L-25R:extended centerline 2
+Runways:EDDB 07L-25R:extended centerline 2 left base
+Runways:EDDB 07L-25R:extended centerline 2 left ticks
+Runways:EDDB 07L-25R:extended centerline 2 left vectoring
+Runways:EDDB 07L-25R:extended centerline 2 right base
+Runways:EDDB 07L-25R:extended centerline 2 right ticks
+Runways:EDDB 07L-25R:extended centerline 2 right vectoring
+Runways:EDDB 07L-25R:name
+Runways:EDDB 07R-25L:centerline
+Runways:EDDB 07R-25L:extended centerline 1
+Runways:EDDB 07R-25L:extended centerline 1 left base
+Runways:EDDB 07R-25L:extended centerline 1 left ticks
+Runways:EDDB 07R-25L:extended centerline 1 left vectoring
+Runways:EDDB 07R-25L:extended centerline 1 right base
+Runways:EDDB 07R-25L:extended centerline 1 right ticks
+Runways:EDDB 07R-25L:extended centerline 1 right vectoring
+Runways:EDDB 07R-25L:extended centerline 2
+Runways:EDDB 07R-25L:extended centerline 2 left base
+Runways:EDDB 07R-25L:extended centerline 2 left ticks
+Runways:EDDB 07R-25L:extended centerline 2 left vectoring
+Runways:EDDB 07R-25L:extended centerline 2 right base
+Runways:EDDB 07R-25L:extended centerline 2 right ticks
+Runways:EDDB 07R-25L:extended centerline 2 right vectoring
+Runways:EDDB 07R-25L:name
+Runways:EPBC 10L-28R:centerline
+Runways:EPBC 10L-28R:extended centerline 1
+Runways:EPBC 10L-28R:extended centerline 1 left base
+Runways:EPBC 10L-28R:extended centerline 1 left ticks
+Runways:EPBC 10L-28R:extended centerline 1 left vectoring
+Runways:EPBC 10L-28R:extended centerline 1 right base
+Runways:EPBC 10L-28R:extended centerline 1 right ticks
+Runways:EPBC 10L-28R:extended centerline 1 right vectoring
+Runways:EPBC 10L-28R:extended centerline 2
+Runways:EPBC 10L-28R:extended centerline 2 left base
+Runways:EPBC 10L-28R:extended centerline 2 left ticks
+Runways:EPBC 10L-28R:extended centerline 2 left vectoring
+Runways:EPBC 10L-28R:extended centerline 2 right base
+Runways:EPBC 10L-28R:extended centerline 2 right ticks
+Runways:EPBC 10L-28R:extended centerline 2 right vectoring
+Runways:EPBC 10L-28R:name
+Runways:EPBC 10R-28L:centerline
+Runways:EPBC 10R-28L:extended centerline 1
+Runways:EPBC 10R-28L:extended centerline 1 left base
+Runways:EPBC 10R-28L:extended centerline 1 left ticks
+Runways:EPBC 10R-28L:extended centerline 1 left vectoring
+Runways:EPBC 10R-28L:extended centerline 1 right base
+Runways:EPBC 10R-28L:extended centerline 1 right ticks
+Runways:EPBC 10R-28L:extended centerline 1 right vectoring
+Runways:EPBC 10R-28L:extended centerline 2
+Runways:EPBC 10R-28L:extended centerline 2 left base
+Runways:EPBC 10R-28L:extended centerline 2 left ticks
+Runways:EPBC 10R-28L:extended centerline 2 left vectoring
+Runways:EPBC 10R-28L:extended centerline 2 right base
+Runways:EPBC 10R-28L:extended centerline 2 right ticks
+Runways:EPBC 10R-28L:extended centerline 2 right vectoring
+Runways:EPBC 10R-28L:name
+Runways:EPBY 08-26:centerline
+Runways:EPBY 08-26:extended centerline 1
+Runways:EPBY 08-26:extended centerline 1 left base
+Runways:EPBY 08-26:extended centerline 1 left ticks
+Runways:EPBY 08-26:extended centerline 1 left vectoring
+Runways:EPBY 08-26:extended centerline 1 right base
+Runways:EPBY 08-26:extended centerline 1 right ticks
+Runways:EPBY 08-26:extended centerline 1 right vectoring
+Runways:EPBY 08-26:extended centerline 2
+Runways:EPBY 08-26:extended centerline 2 left base
+Runways:EPBY 08-26:extended centerline 2 left ticks
+Runways:EPBY 08-26:extended centerline 2 left vectoring
+Runways:EPBY 08-26:extended centerline 2 right base
+Runways:EPBY 08-26:extended centerline 2 right ticks
+Runways:EPBY 08-26:extended centerline 2 right vectoring
+Runways:EPBY 08-26:name
+Runways:EPDE 12-30:centerline
+Runways:EPDE 12-30:extended centerline 1
+Runways:EPDE 12-30:extended centerline 1 left base
+Runways:EPDE 12-30:extended centerline 1 left ticks
+Runways:EPDE 12-30:extended centerline 1 left vectoring
+Runways:EPDE 12-30:extended centerline 1 right base
+Runways:EPDE 12-30:extended centerline 1 right ticks
+Runways:EPDE 12-30:extended centerline 1 right vectoring
+Runways:EPDE 12-30:extended centerline 2
+Runways:EPDE 12-30:extended centerline 2 left base
+Runways:EPDE 12-30:extended centerline 2 left ticks
+Runways:EPDE 12-30:extended centerline 2 left vectoring
+Runways:EPDE 12-30:extended centerline 2 right base
+Runways:EPDE 12-30:extended centerline 2 right ticks
+Runways:EPDE 12-30:extended centerline 2 right vectoring
+Runways:EPDE 12-30:name
+Runways:EPGD 11-29:centerline
+Runways:EPGD 11-29:extended centerline 1
+Runways:EPGD 11-29:extended centerline 1 left base
+Runways:EPGD 11-29:extended centerline 1 left ticks
+Runways:EPGD 11-29:extended centerline 1 left vectoring
+Runways:EPGD 11-29:extended centerline 1 right base
+Runways:EPGD 11-29:extended centerline 1 right ticks
+Runways:EPGD 11-29:extended centerline 1 right vectoring
+Runways:EPGD 11-29:extended centerline 2
+Runways:EPGD 11-29:extended centerline 2 left base
+Runways:EPGD 11-29:extended centerline 2 left ticks
+Runways:EPGD 11-29:extended centerline 2 left vectoring
+Runways:EPGD 11-29:extended centerline 2 right base
+Runways:EPGD 11-29:extended centerline 2 right ticks
+Runways:EPGD 11-29:extended centerline 2 right vectoring
+Runways:EPGD 11-29:name
+Runways:EPKK 07-25:centerline
+Runways:EPKK 07-25:extended centerline 1
+Runways:EPKK 07-25:extended centerline 1 left base
+Runways:EPKK 07-25:extended centerline 1 left ticks
+Runways:EPKK 07-25:extended centerline 1 left vectoring
+Runways:EPKK 07-25:extended centerline 1 right base
+Runways:EPKK 07-25:extended centerline 1 right ticks
+Runways:EPKK 07-25:extended centerline 1 right vectoring
+Runways:EPKK 07-25:extended centerline 2
+Runways:EPKK 07-25:extended centerline 2 left base
+Runways:EPKK 07-25:extended centerline 2 left ticks
+Runways:EPKK 07-25:extended centerline 2 left vectoring
+Runways:EPKK 07-25:extended centerline 2 right base
+Runways:EPKK 07-25:extended centerline 2 right ticks
+Runways:EPKK 07-25:extended centerline 2 right vectoring
+Runways:EPKK 07-25:name
+Runways:EPKS 11-29:centerline
+Runways:EPKS 11-29:extended centerline 1
+Runways:EPKS 11-29:extended centerline 1 left base
+Runways:EPKS 11-29:extended centerline 1 left ticks
+Runways:EPKS 11-29:extended centerline 1 left vectoring
+Runways:EPKS 11-29:extended centerline 1 right base
+Runways:EPKS 11-29:extended centerline 1 right ticks
+Runways:EPKS 11-29:extended centerline 1 right vectoring
+Runways:EPKS 11-29:extended centerline 2
+Runways:EPKS 11-29:extended centerline 2 left base
+Runways:EPKS 11-29:extended centerline 2 left ticks
+Runways:EPKS 11-29:extended centerline 2 left vectoring
+Runways:EPKS 11-29:extended centerline 2 right base
+Runways:EPKS 11-29:extended centerline 2 right ticks
+Runways:EPKS 11-29:extended centerline 2 right vectoring
+Runways:EPKS 11-29:name
+Runways:EPKT 09-27:centerline
+Runways:EPKT 09-27:extended centerline 1
+Runways:EPKT 09-27:extended centerline 1 left base
+Runways:EPKT 09-27:extended centerline 1 left ticks
+Runways:EPKT 09-27:extended centerline 1 left vectoring
+Runways:EPKT 09-27:extended centerline 1 right base
+Runways:EPKT 09-27:extended centerline 1 right ticks
+Runways:EPKT 09-27:extended centerline 1 right vectoring
+Runways:EPKT 09-27:extended centerline 2
+Runways:EPKT 09-27:extended centerline 2 left base
+Runways:EPKT 09-27:extended centerline 2 left ticks
+Runways:EPKT 09-27:extended centerline 2 left vectoring
+Runways:EPKT 09-27:extended centerline 2 right base
+Runways:EPKT 09-27:extended centerline 2 right ticks
+Runways:EPKT 09-27:extended centerline 2 right vectoring
+Runways:EPKT 09-27:name
+Runways:EPLB 07-25:centerline
+Runways:EPLB 07-25:extended centerline 1
+Runways:EPLB 07-25:extended centerline 1 left base
+Runways:EPLB 07-25:extended centerline 1 left ticks
+Runways:EPLB 07-25:extended centerline 1 left vectoring
+Runways:EPLB 07-25:extended centerline 1 right base
+Runways:EPLB 07-25:extended centerline 1 right ticks
+Runways:EPLB 07-25:extended centerline 1 right vectoring
+Runways:EPLB 07-25:extended centerline 2
+Runways:EPLB 07-25:extended centerline 2 left base
+Runways:EPLB 07-25:extended centerline 2 left ticks
+Runways:EPLB 07-25:extended centerline 2 left vectoring
+Runways:EPLB 07-25:extended centerline 2 right base
+Runways:EPLB 07-25:extended centerline 2 right ticks
+Runways:EPLB 07-25:extended centerline 2 right vectoring
+Runways:EPLB 07-25:name
+Runways:EPLL 07-25:centerline
+Runways:EPLL 07-25:extended centerline 1
+Runways:EPLL 07-25:extended centerline 1 left base
+Runways:EPLL 07-25:extended centerline 1 left ticks
+Runways:EPLL 07-25:extended centerline 1 left vectoring
+Runways:EPLL 07-25:extended centerline 1 right base
+Runways:EPLL 07-25:extended centerline 1 right ticks
+Runways:EPLL 07-25:extended centerline 1 right vectoring
+Runways:EPLL 07-25:extended centerline 2
+Runways:EPLL 07-25:extended centerline 2 left base
+Runways:EPLL 07-25:extended centerline 2 left ticks
+Runways:EPLL 07-25:extended centerline 2 left vectoring
+Runways:EPLL 07-25:extended centerline 2 right base
+Runways:EPLL 07-25:extended centerline 2 right ticks
+Runways:EPLL 07-25:extended centerline 2 right vectoring
+Runways:EPLL 07-25:name
+Runways:EPLL 07R-25L:centerline
+Runways:EPLL 07R-25L:extended centerline 1
+Runways:EPLL 07R-25L:extended centerline 1 left base
+Runways:EPLL 07R-25L:extended centerline 1 left ticks
+Runways:EPLL 07R-25L:extended centerline 1 left vectoring
+Runways:EPLL 07R-25L:extended centerline 1 right base
+Runways:EPLL 07R-25L:extended centerline 1 right ticks
+Runways:EPLL 07R-25L:extended centerline 1 right vectoring
+Runways:EPLL 07R-25L:extended centerline 2
+Runways:EPLL 07R-25L:extended centerline 2 left base
+Runways:EPLL 07R-25L:extended centerline 2 left ticks
+Runways:EPLL 07R-25L:extended centerline 2 left vectoring
+Runways:EPLL 07R-25L:extended centerline 2 right base
+Runways:EPLL 07R-25L:extended centerline 2 right ticks
+Runways:EPLL 07R-25L:extended centerline 2 right vectoring
+Runways:EPLL 07R-25L:name
+Runways:EPML 08R-26L:centerline
+Runways:EPML 08R-26L:extended centerline 1
+Runways:EPML 08R-26L:extended centerline 1 left base
+Runways:EPML 08R-26L:extended centerline 1 left ticks
+Runways:EPML 08R-26L:extended centerline 1 left vectoring
+Runways:EPML 08R-26L:extended centerline 1 right base
+Runways:EPML 08R-26L:extended centerline 1 right ticks
+Runways:EPML 08R-26L:extended centerline 1 right vectoring
+Runways:EPML 08R-26L:extended centerline 2
+Runways:EPML 08R-26L:extended centerline 2 left base
+Runways:EPML 08R-26L:extended centerline 2 left ticks
+Runways:EPML 08R-26L:extended centerline 2 left vectoring
+Runways:EPML 08R-26L:extended centerline 2 right base
+Runways:EPML 08R-26L:extended centerline 2 right ticks
+Runways:EPML 08R-26L:extended centerline 2 right vectoring
+Runways:EPML 08R-26L:name
+Runways:EPML 17-35:centerline
+Runways:EPML 17-35:extended centerline 1
+Runways:EPML 17-35:extended centerline 1 left base
+Runways:EPML 17-35:extended centerline 1 left ticks
+Runways:EPML 17-35:extended centerline 1 left vectoring
+Runways:EPML 17-35:extended centerline 1 right base
+Runways:EPML 17-35:extended centerline 1 right ticks
+Runways:EPML 17-35:extended centerline 1 right vectoring
+Runways:EPML 17-35:extended centerline 2
+Runways:EPML 17-35:extended centerline 2 left base
+Runways:EPML 17-35:extended centerline 2 left ticks
+Runways:EPML 17-35:extended centerline 2 left vectoring
+Runways:EPML 17-35:extended centerline 2 right base
+Runways:EPML 17-35:extended centerline 2 right ticks
+Runways:EPML 17-35:extended centerline 2 right vectoring
+Runways:EPML 17-35:name
+Runways:EPMO 08-26:centerline
+Runways:EPMO 08-26:extended centerline 1
+Runways:EPMO 08-26:extended centerline 1 left base
+Runways:EPMO 08-26:extended centerline 1 left ticks
+Runways:EPMO 08-26:extended centerline 1 left vectoring
+Runways:EPMO 08-26:extended centerline 1 right base
+Runways:EPMO 08-26:extended centerline 1 right ticks
+Runways:EPMO 08-26:extended centerline 1 right vectoring
+Runways:EPMO 08-26:extended centerline 2
+Runways:EPMO 08-26:extended centerline 2 left base
+Runways:EPMO 08-26:extended centerline 2 left ticks
+Runways:EPMO 08-26:extended centerline 2 left vectoring
+Runways:EPMO 08-26:extended centerline 2 right base
+Runways:EPMO 08-26:extended centerline 2 right ticks
+Runways:EPMO 08-26:extended centerline 2 right vectoring
+Runways:EPMO 08-26:name
+Runways:EPPO 10-28:centerline
+Runways:EPPO 10-28:extended centerline 1
+Runways:EPPO 10-28:extended centerline 1 left base
+Runways:EPPO 10-28:extended centerline 1 left ticks
+Runways:EPPO 10-28:extended centerline 1 left vectoring
+Runways:EPPO 10-28:extended centerline 1 right base
+Runways:EPPO 10-28:extended centerline 1 right ticks
+Runways:EPPO 10-28:extended centerline 1 right vectoring
+Runways:EPPO 10-28:extended centerline 2
+Runways:EPPO 10-28:extended centerline 2 left base
+Runways:EPPO 10-28:extended centerline 2 left ticks
+Runways:EPPO 10-28:extended centerline 2 left vectoring
+Runways:EPPO 10-28:extended centerline 2 right base
+Runways:EPPO 10-28:extended centerline 2 right ticks
+Runways:EPPO 10-28:extended centerline 2 right vectoring
+Runways:EPPO 10-28:name
+Runways:EPPT 03L-21R:centerline
+Runways:EPPT 03L-21R:extended centerline 1
+Runways:EPPT 03L-21R:extended centerline 1 left base
+Runways:EPPT 03L-21R:extended centerline 1 left ticks
+Runways:EPPT 03L-21R:extended centerline 1 left vectoring
+Runways:EPPT 03L-21R:extended centerline 1 right base
+Runways:EPPT 03L-21R:extended centerline 1 right ticks
+Runways:EPPT 03L-21R:extended centerline 1 right vectoring
+Runways:EPPT 03L-21R:extended centerline 2
+Runways:EPPT 03L-21R:extended centerline 2 left base
+Runways:EPPT 03L-21R:extended centerline 2 left ticks
+Runways:EPPT 03L-21R:extended centerline 2 left vectoring
+Runways:EPPT 03L-21R:extended centerline 2 right base
+Runways:EPPT 03L-21R:extended centerline 2 right ticks
+Runways:EPPT 03L-21R:extended centerline 2 right vectoring
+Runways:EPPT 03L-21R:name
+Runways:EPPT 03R-21L:centerline
+Runways:EPPT 03R-21L:extended centerline 1
+Runways:EPPT 03R-21L:extended centerline 1 left base
+Runways:EPPT 03R-21L:extended centerline 1 left ticks
+Runways:EPPT 03R-21L:extended centerline 1 left vectoring
+Runways:EPPT 03R-21L:extended centerline 1 right base
+Runways:EPPT 03R-21L:extended centerline 1 right ticks
+Runways:EPPT 03R-21L:extended centerline 1 right vectoring
+Runways:EPPT 03R-21L:extended centerline 2
+Runways:EPPT 03R-21L:extended centerline 2 left base
+Runways:EPPT 03R-21L:extended centerline 2 left ticks
+Runways:EPPT 03R-21L:extended centerline 2 left vectoring
+Runways:EPPT 03R-21L:extended centerline 2 right base
+Runways:EPPT 03R-21L:extended centerline 2 right ticks
+Runways:EPPT 03R-21L:extended centerline 2 right vectoring
+Runways:EPPT 03R-21L:name
+Runways:EPRZ 09-27:centerline
+Runways:EPRZ 09-27:extended centerline 1
+Runways:EPRZ 09-27:extended centerline 1 left base
+Runways:EPRZ 09-27:extended centerline 1 left ticks
+Runways:EPRZ 09-27:extended centerline 1 left vectoring
+Runways:EPRZ 09-27:extended centerline 1 right base
+Runways:EPRZ 09-27:extended centerline 1 right ticks
+Runways:EPRZ 09-27:extended centerline 1 right vectoring
+Runways:EPRZ 09-27:extended centerline 2
+Runways:EPRZ 09-27:extended centerline 2 left base
+Runways:EPRZ 09-27:extended centerline 2 left ticks
+Runways:EPRZ 09-27:extended centerline 2 left vectoring
+Runways:EPRZ 09-27:extended centerline 2 right base
+Runways:EPRZ 09-27:extended centerline 2 right ticks
+Runways:EPRZ 09-27:extended centerline 2 right vectoring
+Runways:EPRZ 09-27:name
+Runways:EPSC 13-31:centerline
+Runways:EPSC 13-31:extended centerline 1
+Runways:EPSC 13-31:extended centerline 1 left base
+Runways:EPSC 13-31:extended centerline 1 left ticks
+Runways:EPSC 13-31:extended centerline 1 left vectoring
+Runways:EPSC 13-31:extended centerline 1 right base
+Runways:EPSC 13-31:extended centerline 1 right ticks
+Runways:EPSC 13-31:extended centerline 1 right vectoring
+Runways:EPSC 13-31:extended centerline 2
+Runways:EPSC 13-31:extended centerline 2 left base
+Runways:EPSC 13-31:extended centerline 2 left ticks
+Runways:EPSC 13-31:extended centerline 2 left vectoring
+Runways:EPSC 13-31:extended centerline 2 right base
+Runways:EPSC 13-31:extended centerline 2 right ticks
+Runways:EPSC 13-31:extended centerline 2 right vectoring
+Runways:EPSC 13-31:name
+Runways:EPSY 01-19:centerline
+Runways:EPSY 01-19:extended centerline 1
+Runways:EPSY 01-19:extended centerline 1 left base
+Runways:EPSY 01-19:extended centerline 1 left ticks
+Runways:EPSY 01-19:extended centerline 1 left vectoring
+Runways:EPSY 01-19:extended centerline 1 right base
+Runways:EPSY 01-19:extended centerline 1 right ticks
+Runways:EPSY 01-19:extended centerline 1 right vectoring
+Runways:EPSY 01-19:extended centerline 2
+Runways:EPSY 01-19:extended centerline 2 left base
+Runways:EPSY 01-19:extended centerline 2 left ticks
+Runways:EPSY 01-19:extended centerline 2 left vectoring
+Runways:EPSY 01-19:extended centerline 2 right base
+Runways:EPSY 01-19:extended centerline 2 right ticks
+Runways:EPSY 01-19:extended centerline 2 right vectoring
+Runways:EPSY 01-19:name
+Runways:EPWA 11-29:centerline
+Runways:EPWA 11-29:extended centerline 1
+Runways:EPWA 11-29:extended centerline 1 left base
+Runways:EPWA 11-29:extended centerline 1 left ticks
+Runways:EPWA 11-29:extended centerline 1 left vectoring
+Runways:EPWA 11-29:extended centerline 1 right base
+Runways:EPWA 11-29:extended centerline 1 right ticks
+Runways:EPWA 11-29:extended centerline 1 right vectoring
+Runways:EPWA 11-29:extended centerline 2
+Runways:EPWA 11-29:extended centerline 2 left base
+Runways:EPWA 11-29:extended centerline 2 left ticks
+Runways:EPWA 11-29:extended centerline 2 left vectoring
+Runways:EPWA 11-29:extended centerline 2 right base
+Runways:EPWA 11-29:extended centerline 2 right ticks
+Runways:EPWA 11-29:extended centerline 2 right vectoring
+Runways:EPWA 11-29:name
+Runways:EPWA 15-33:centerline
+Runways:EPWA 15-33:extended centerline 1
+Runways:EPWA 15-33:extended centerline 1 left base
+Runways:EPWA 15-33:extended centerline 1 left ticks
+Runways:EPWA 15-33:extended centerline 1 left vectoring
+Runways:EPWA 15-33:extended centerline 1 right base
+Runways:EPWA 15-33:extended centerline 1 right ticks
+Runways:EPWA 15-33:extended centerline 1 right vectoring
+Runways:EPWA 15-33:extended centerline 2
+Runways:EPWA 15-33:extended centerline 2 left base
+Runways:EPWA 15-33:extended centerline 2 left ticks
+Runways:EPWA 15-33:extended centerline 2 left vectoring
+Runways:EPWA 15-33:extended centerline 2 right base
+Runways:EPWA 15-33:extended centerline 2 right ticks
+Runways:EPWA 15-33:extended centerline 2 right vectoring
+Runways:EPWA 15-33:name
+Runways:EPWR 11-29:centerline
+Runways:EPWR 11-29:extended centerline 1
+Runways:EPWR 11-29:extended centerline 1 left base
+Runways:EPWR 11-29:extended centerline 1 left ticks
+Runways:EPWR 11-29:extended centerline 1 left vectoring
+Runways:EPWR 11-29:extended centerline 1 right base
+Runways:EPWR 11-29:extended centerline 1 right ticks
+Runways:EPWR 11-29:extended centerline 1 right vectoring
+Runways:EPWR 11-29:extended centerline 2
+Runways:EPWR 11-29:extended centerline 2 left base
+Runways:EPWR 11-29:extended centerline 2 left ticks
+Runways:EPWR 11-29:extended centerline 2 left vectoring
+Runways:EPWR 11-29:extended centerline 2 right base
+Runways:EPWR 11-29:extended centerline 2 right ticks
+Runways:EPWR 11-29:extended centerline 2 right vectoring
+Runways:EPWR 11-29:name
+Runways:EPZG 06-24:centerline
+Runways:EPZG 06-24:extended centerline 1
+Runways:EPZG 06-24:extended centerline 1 left base
+Runways:EPZG 06-24:extended centerline 1 left ticks
+Runways:EPZG 06-24:extended centerline 1 left vectoring
+Runways:EPZG 06-24:extended centerline 1 right base
+Runways:EPZG 06-24:extended centerline 1 right ticks
+Runways:EPZG 06-24:extended centerline 1 right vectoring
+Runways:EPZG 06-24:extended centerline 2
+Runways:EPZG 06-24:extended centerline 2 left base
+Runways:EPZG 06-24:extended centerline 2 left ticks
+Runways:EPZG 06-24:extended centerline 2 left vectoring
+Runways:EPZG 06-24:extended centerline 2 right base
+Runways:EPZG 06-24:extended centerline 2 right ticks
+Runways:EPZG 06-24:extended centerline 2 right vectoring
+Runways:EPZG 06-24:name
+VORs:CMP:frequency
+VORs:CMP:name
+VORs:CMP:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:500
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:356.00000
+TAGFAMILY:P21-APP
+WINDOWAREA:51.640260:15.371164:52.795417:18.927138
+PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
+PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
+PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
+PLUGIN:EuroScope History Trails:HistoryTrailDisplay:1
+PLUGIN:EuroScope History Trails:HistoryTrailDotSize:4
+PLUGIN:EuroScope History Trails:HistoryTrailFade:1
+PLUGIN:EuroScope History Trails:HistoryTrailLength:15
+PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
+PLUGIN:EuroScope History Trails:HistoryTrailType:0
+PLUGIN:RDF Plugin for Euroscope:Radius:50
+PLUGIN:RDF Plugin for Euroscope:RGB:9:183:100
