@@ -1,1 +1,1 @@
-WZZ	WIZZAIR	WIZZAIR
+../../ICAO/ICAO_Airlines.txt
